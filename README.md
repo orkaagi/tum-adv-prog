@@ -1,5 +1,8 @@
 # Stock market simulation by Group 80
 
+## Acknowledgements
+Team members: Liming, Sadhanna, Agi
+
 ## Sprint 3 optimizations
 See the detailed documentation of the optimizations
 - [Performance.md](performance.md)
@@ -220,4 +223,5 @@ Input:
 
 Result:
 the Stock A's volatility will change from 0.31622776601683794 to 0.38932808094588428
+
 since the wallet bought ~9.09 shares of stock A on day 1.
