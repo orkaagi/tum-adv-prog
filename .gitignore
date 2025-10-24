@@ -1,0 +1,7 @@
+.vscode/settings.json
+*.o
+readFileInput
+calculateStocks
+readStdInput
+main
+build
