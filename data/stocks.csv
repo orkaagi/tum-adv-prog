@@ -1,0 +1,5 @@
+shareName,variance,expectedReturn,initialValue
+Google,0.3415927,0.10,10.34
+Amazon,0.15707963,0.05,1.92
+Tesla,0.62831853,0.2,5.23
+Ferrero,0.10471975,0.25,4.01

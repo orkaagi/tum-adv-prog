@@ -1,0 +1,3 @@
+/mnt/c/Users/agi/Documents/_TUM/group_80/CMakeFiles/group_80.dir
+/mnt/c/Users/agi/Documents/_TUM/group_80/CMakeFiles/edit_cache.dir
+/mnt/c/Users/agi/Documents/_TUM/group_80/CMakeFiles/rebuild_cache.dir

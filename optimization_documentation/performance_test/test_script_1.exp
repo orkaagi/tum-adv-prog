@@ -1,0 +1,65 @@
+#!/usr/bin/expect
+
+
+# Start the program
+spawn perf stat ./group_80
+
+# Provide inputs without delays
+
+
+expect "stocks"
+send "A B C \n"
+
+
+expect "variance"
+send "0.1 0.3 0.9 \n"
+
+expect "expected_return"
+send "0.1 0.2 0.3 \n"
+
+expect "initial_value"
+send "10 20 30 \n"
+
+expect "Enter Wallet ID"
+send "1 \n"
+
+expect "Enter initial investment amount:"
+send "1000000 \n"
+
+expect "Choose a strategy:"
+send "1 \n"
+
+expect "Type 'no' to stop"
+send "yes \n"
+
+expect "Enter Wallet ID"
+send "2 \n"
+
+expect "Enter initial investment amount:"
+send "1000000 \n"
+
+expect "Choose a strategy:"
+send "2 \n"
+
+expect "Type 'no' to stop"
+send "yes \n"
+
+expect "Enter Wallet ID"
+send "3 \n"
+
+expect "Enter initial investment amount:"
+send "1000000 \n"
+
+expect "Choose a strategy:"
+send "3 \n"
+
+expect "Type 'no' to stop"
+send "no \n"
+
+
+
+# End the session
+
+expect eof
+
+
