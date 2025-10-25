@@ -3,8 +3,8 @@
 ## Acknowledgements
 Team members: 
 - [Liming Liu](https://www.linkedin.com/in/liming-liu-b199b8225/)
-- Sadhanna
-- Agnes Biborka
+- [Sadhanna Ramesh](https://www.linkedin.com/in/sadhanna-ramesh/)
+- [Agnes Biborka](https://www.linkedin.com/in/agnes-biborka-42537a334/)
 
 ## Sprint 3 optimizations
 See the detailed documentation of the optimizations
@@ -228,4 +228,5 @@ Result:
 the Stock A's volatility will change from 0.31622776601683794 to 0.38932808094588428
 
 since the wallet bought ~9.09 shares of stock A on day 1.
+
 
